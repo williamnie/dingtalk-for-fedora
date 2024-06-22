@@ -6,7 +6,7 @@
 
 这个仓库提供了可以帮助你把官方的钉钉deb包打成rpm包的spec文件。
 
-如果你不想自己构建rpm包，你可以登陆 github 帐号，在[这个页面](https://github.com/zhullyb/dingtalk-for-fedora/actions/workflows/rpmbuild.yml)点击最近的一次被✅标记的 action， 下载里面的 Artifacts。
+如果你不想自己构建rpm包，你可以登陆 github 帐号，在点击最近的一次被✅标记的 action， 下载里面的 Artifacts。
 
 ## Build
 
