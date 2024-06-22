@@ -5,7 +5,7 @@
 AutoReqProv: no
 
 Name:           dingtalk-bin
-Version:        1.6.0.230113
+Version:        7.5.20.40605
 Release:        2%{?dist}
 Summary:        钉钉
 
@@ -69,6 +69,9 @@ rm -rf %{buildroot}/opt/dingtalk-bin/*Release*/{libcurl.so.4,libz*}
 /opt/dingtalk-bin/
 
 %changelog
+
+* Tue Jan 22 2024 zhullyb <zhullyb@outlook.com> - 7.5.20.40605-2
+- fix open url
 
 * Tue Jan 17 2023 zhullyb <zhullyb@outlook.com> - 1.6.0.230113-2
 - fix open url
